@@ -9,5 +9,6 @@ https://youtu.be/7M2cWYeBmkc
 
 ## I build up the circuitry now in real
 Please check my new follow-up video and my new GitHub repository
+
 https://youtu.be/24sBtnnjK34
 https://github.com/YetAnotherElectronicsChannel/Discrete-PWM-Class-D
